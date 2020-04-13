@@ -23,6 +23,7 @@ class InfoActivity : AppCompatActivity() {
             .addItem(Element().setTitle("This app helps in tracking the Covid-19 cases in India."))
             .setDescription("App by Hardik Dua")
             .setImage(R.drawable.ic_hardik)
+            .addItem(Element().setTitle("COVID-19 Tracker India"))
             .addItem(Element().setTitle("Version 1.0"))
             .addGroup("Connect With Me")
             .addEmail("hardikdua08@gmail.com")
