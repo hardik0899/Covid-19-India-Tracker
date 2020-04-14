@@ -201,6 +201,15 @@
 
         </LinearLayout>
 
+        <ProgressBar
+            android:id="@+id/pBar"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="300dp"
+            android:layout_centerHorizontal="true"
+            android:visibility="gone" />
+
         <ListView
             android:id="@+id/list"
             android:layout_width="wrap_content"

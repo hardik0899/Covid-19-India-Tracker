@@ -9,7 +9,7 @@ import android.view.WindowManager
 class SplashScreenActivity : AppCompatActivity() {
 
     companion object {
-        private var SPLASH_SCREEN_TIME_OUT : Long = 2000
+        private var SPLASH_SCREEN_TIME_OUT : Long = 2500
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {

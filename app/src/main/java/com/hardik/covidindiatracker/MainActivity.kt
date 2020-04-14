@@ -2,7 +2,9 @@ package com.hardik.covidindiatracker
 
 import android.content.Intent
 import android.os.Bundle
+import android.os.Handler
 import android.view.LayoutInflater
+import android.view.View
 import android.widget.AbsListView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.work.*
@@ -23,6 +25,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         list.addHeaderView(LayoutInflater.from(this).inflate(R.layout.list_header, list, false))
+        pBar.visibility = View.VISIBLE
+        Handler().postDelayed(Runnable {
+            pBar.visibility = View.GONE
+        },3200)
 
         infoIcon.setOnClickListener {
             val infoActivity = Intent(applicationContext,InfoActivity::class.java)
