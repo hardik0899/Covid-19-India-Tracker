@@ -3,7 +3,7 @@
 This App helps in tracking the COVID-19 Cases in India.
 
 
-Developed by Hardik Dua(SDE at WinZO Games)
+Developed by Hardik Dua
 
 
 *************************************************************************************
