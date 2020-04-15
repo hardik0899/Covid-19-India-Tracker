@@ -9,7 +9,7 @@ Developed by Hardik Dua
 *************************************************************************************
 
 
-Download APK here...
+Download my APP by copying the given link in the browser and installing the APK..
 
 
 https://drive.google.com/file/d/1aAn0UzXDbnZm5xPhVaeOolReMyiiM7zy/view?usp=sharing
