@@ -18,6 +18,6 @@ https://drive.google.com/file/d/1aAn0UzXDbnZm5xPhVaeOolReMyiiM7zy/view?usp=shari
 
 If you liked the app than please share it Indian Community so that maximum indian citizens must be aware of the actual count of cases in his/her state. 
 
-Guys <h1>Sharing = Caring</h1>😎✔ 
+Guys.. <h1>Sharing✔  = Caring💖🙌 </h1>
 
-So please share this.
+So please share this to the maximum level.
